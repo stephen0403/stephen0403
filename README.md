@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 I'm Stephen Im, student @ UWaterloo and interested in Software Engineering!
 - swe intern @ whatnot
@@ -23,4 +22,6 @@ I'm Stephen Im, student @ UWaterloo and interested in Software Engineering!
 - prev DS intern @ onex
   
 - 🏆 Scotiabank AI-Hackathon 2024 Winner ($2000), ETHGlobal Waterloo 2023 WorldCoin Track ($500)
+-->
+
 
